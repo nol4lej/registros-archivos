@@ -1,0 +1,8 @@
+{'rut': 1591599, 'nombre': 'nol', 'apellido': 'med', 'edad': 10, 'nota': 3.0}
+{'rut': 1112223, 'nombre': 'nnn', 'apellido': 'mmm', 'edad': 22, 'nota': 6.0}
+{'rut': 1472588, 'nombre': 'aaa', 'apellido': 'ssssss', 'edad': 99, 'nota': 6.0}
+{'rut': 3332223, 'nombre': 'ooo', 'apellido': 'pdfppd', 'edad': 96, 'nota': 6.0}
+{'rut': 5556665, 'nombre': 'asd', 'apellido': 'dasdas', 'edad': 99, 'nota': 1.0}
+{'rut': 6666666, 'nombre': 'noh', 'apellido': 'fghfg', 'edad': 11, 'nota': 2.0}
+{'rut': 66666666, 'nombre': 'nnn', 'apellido': 'gggg', 'edad': 1, 'nota': 1.0}
+{'rut': 1561531, 'nombre': 'dfds', 'apellido': 'sdfsdfs', 'edad': 1, 'nota': 1.0}
